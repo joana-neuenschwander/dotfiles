@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jo.neush@gmail.com
+	name = Joana Neuenschwander
